@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Md Ashraf
 
-<!--
-**MdAshraf123/MdAshraf123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student | 💻 Developer | 🤖 AI & ML Learner
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: Python, C, C++
+- **Web**: HTML, CSS, JavaScript, React, Tailwind, Django
+- **Backend**: Django REST Framework
+- **Database**: MySQL
+- **Others**: Git, GitHub, VS Code
+
+## 📚 Learning Goals
+
+- ✅ Master DSA
+- ✅ Advanced Django
+- ✅ React + DRF
+- ✅ AI & Machine Learning (practically)
+
+## 🚀 Projects
+
+- 🔗 [Doctor's Hub](https://github.com/MdAshraf123/doctorshub) — Book doctor appointments
+- 🔗 [Portfolio](https://github.com/MdAshraf123/portfolio) — My portfolio
+
+## 📫 Connect with me
+
+- Email: mdashraf6776@gmail.com
+- LinkedIn: [linkedin.com/in/mdashraf123](https://linkedin.com/in/mdashraf123)
+- Portfolio: [https://portfolio-h6zx.onrender.com/](https://portfolio-h6zx.onrender.com/)
+
+---
+
+> "Consistency is the key to mastery."
+
