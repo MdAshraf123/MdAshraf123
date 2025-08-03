@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Md Ashraf
+# 👋 Hi, I'm Mohammad Ashraf
 
 🎓 B.Tech CSE Student | 💻 Developer | 🤖 AI & ML Learner
 
