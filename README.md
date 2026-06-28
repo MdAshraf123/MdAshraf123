@@ -7,6 +7,7 @@
 - **Languages**: Python, C, C++
 - **Web**: HTML, CSS, JavaScript, React, Tailwind, Django
 - **Backend**: Django REST Framework
+- **Android Framework**: Flutter
 - **Database**: MySQL
 - **Others**: Git, GitHub, VS Code
 
